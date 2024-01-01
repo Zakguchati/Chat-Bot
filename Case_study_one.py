@@ -1,7 +1,9 @@
 print('''Hello! Welcome to Unibuddy
       
 You're online buddy personalised to help you naivigate your university experience.
+
 To help us understand your desired experiences 
+
 Please answer the following questions below: 
 ''')
 
@@ -13,7 +15,7 @@ print("Hello " + name + "!")
 if age <= 22:
     print('''
 We have a range of clubs and activities to help you feel comfortable:
-1.'welcome to univerity club
+1. Welcome to univerity club
 2. Salsa, Bachata, Street Dance 
 3. Football, Basketball, Hockey, Reading clubs and many more
 ''')
@@ -31,7 +33,7 @@ else:
 
 if colour == "blue" or colour == 'grey' or colour == "white":
     print('''
-We  also have many options that involve your favourite colour: 
+We also have many options that involve your favourite colour: 
 1. Art Classes
 2. Swimming activities
 3. Skygazing 
